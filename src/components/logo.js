@@ -1,10 +1,12 @@
 import React from "react"
 import { Link } from "gatsby"
 
-const Logo = (props) => (
-  <div className="site-logo">
-    <Link to="/">{props.title}</Link>
+const Logo = (props) => {
+  return <div className="site-logo">
+    <Link to="/">
+      <img src={props.logo}/>
+      </Link>
   </div>
-)
+}
 
 export default Logo

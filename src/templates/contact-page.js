@@ -42,16 +42,13 @@ const Contact = ({data}) => {
             <label>Name<input type="text" name="name" required /></label>   
           </p>
           <p>
-            <label>Email<input type="email" name="email" required /></label>
-          </p>
-          <p>
-            <label>Subject<input type="text" name="subject" required /></label>   
+            <label>Email/Phone<input type="text" name="contact" required /></label>
           </p>
           <p>
             <label>Message<textarea name="message" required ></textarea></label>
           </p>
           <p className="text-align-right">
-            <button className="button" type="submit">Send Message <span className="icon -right"><RiSendPlane2Line/></span></button>
+            <button className="button" type="submit">Send <span className="icon -right"><RiSendPlane2Line/></span></button>
           </p>
         </form>
       </div>
