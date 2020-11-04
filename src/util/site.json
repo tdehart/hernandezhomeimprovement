@@ -2,14 +2,14 @@
   "meta": {
     "title": "Hernandez Home Improvement",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Providing quality handyman and home improvement services in the South Jersey and the greater Philadelphia area.",
+    "siteUrl": "https://hernandezhomeimprovement.com/",
     "siteLogoPurple": "/assets/logo-purple.png",
     "siteLogoWhite": "/assets/logo-white.png",
     "siteLogoFull": "/assets/logo-full.png",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "image": "/assets/logo-purple.png",
+    "iconimage": "/assets/logo-purple.png",
+    "twitterUsername": "@hernandezhomeimprovement"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
